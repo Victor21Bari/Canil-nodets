@@ -6,9 +6,6 @@ Projeto Canil feito com Node e Typescript
 
 `npm i -g nodemon typescript ts-node`
 
-#### Caso não tenha essas bibliotecas instaladas globalmente em seu computador
-`npm i -g nodemon typescript ts-node`
-
 ### Instalação
 `npm install`
 
